@@ -4,3 +4,4 @@ This repository contains my personal build of dwm. Works best with the following
 - Sherpa (https://github.com/everest-linux/sherpa)
 - Compton (https://github.com/chjj/compton)
 - Feh (https://github.com/derf/feh)
+- slstatus (https://tools.suckless.org/slstatus/)
